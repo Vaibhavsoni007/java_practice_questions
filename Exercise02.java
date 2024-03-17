@@ -1,3 +1,4 @@
+//Write a Java program to print the sum of two numbers
 package w3resource_java_problems.java_exercises_basic_part01;
 import java.util.*;
 public class Exercise02 {
@@ -9,8 +10,5 @@ public class Exercise02 {
         int num2 = sc.nextInt();
         int result = num2+num1;
         System.out.println("the addition of these numbers is :"+result);
-
-
-
     }
 }
